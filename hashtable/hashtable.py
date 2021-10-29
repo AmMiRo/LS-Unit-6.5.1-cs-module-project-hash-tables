@@ -128,8 +128,6 @@ class HashTable:
                 else:
                     current = current.next
         
-        
-
 
     def delete(self, key):
         """
